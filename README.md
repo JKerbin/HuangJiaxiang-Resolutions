@@ -4,6 +4,8 @@
 
 1. **外汇牌价查询**
 
+   代码保存在Question1/myResolution.py，可以在控制台中运行
+   
    备注：
    
    需要安装python环境和selenium库
@@ -15,9 +17,9 @@
 
    结果保存在result.txt文件中
 
-3. **安装 Selenium**
+3. **字符串处理**
 
-   打开终端（Windows 用户可以使用命令提示符或 PowerShell），运行以下命令安装 Selenium：
+   代码保存在Question2/myResolution.py，可以在控制台中运行
 
-   ```bash
-   pip install selenium
+   测试截图：
+   
