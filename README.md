@@ -13,7 +13,7 @@
    测试截图：
    ![image](https://github.com/JKerbin/HuangJiaxiang-Resolutions/assets/81380030/4bc24eb1-33ff-452b-b480-6bb1234ad2cc)
 
-   
+   结果保存在result.txt文件中
 
 3. **安装 Selenium**
 
