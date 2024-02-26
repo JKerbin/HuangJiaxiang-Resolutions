@@ -4,11 +4,11 @@
 
 1. **外汇牌价查询**
 
-   代码保存在Question1/myResolution.py，可以在控制台中运行
+   代码保存在Question1/myResolution.py，可以在控制台中运行。
    
    备注：
    
-   需要安装python环境和selenium库
+   需要安装python环境和selenium库。
    
    访问ChromeDriver下载页面，下载与你本地Chrome浏览器版本匹配的ChromeDriver替换项目中的文件。
    
@@ -19,7 +19,9 @@
 
 3. **字符串处理**
 
-   代码保存在Question2/myResolution.py，可以在控制台中运行
+   代码保存在Question2/myResolution.py，可以在控制台中运行。
 
    测试截图：
+   ![image](https://github.com/JKerbin/HuangJiaxiang-Resolutions/assets/81380030/de61abbb-3211-426e-8b81-25726104690e)
+
    
