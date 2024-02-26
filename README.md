@@ -10,7 +10,7 @@
    
    需要安装python环境和selenium库。
    
-   访问ChromeDriver下载页面，下载与你本地Chrome浏览器版本匹配的ChromeDriver替换项目中的文件。
+   访问ChromeDriver下载页面，下载与本地Chrome浏览器版本匹配的ChromeDriver替换项目中的文件。
    
    测试截图：
    
